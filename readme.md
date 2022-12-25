@@ -8,8 +8,8 @@
 <body>
     <h1>Description: </h1><p>The project shows the various features of the home stay with beautify UI</p>
     <h1>Tools Used: </h1><p>html, vanilla css, (no css framework used), java script</p>
-    <h1>github pages: </h1><a href="http://">Click here</a>
-    <h1>Screenshots: </h1>
+    <h1>github pages: </h1><a href="https://rajesh-ss.github.io/Home_stay/">Click here</a>
+    <h1>Screenshots:
 </body>
 </html>
 
